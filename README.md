@@ -1,6 +1,6 @@
 Ola eu sou kalleb!
 
-- 👋 Oi, sou @kallleva
+- 👋 Oi, sou @kalleb
 - 👀- Estou interessado em aprender mobile e desktop 
 - 🌱 Atualmente estou aprendendo flutter,HTML e CSS
 
